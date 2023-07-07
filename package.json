@@ -90,7 +90,7 @@
     "rollup-plugin-unassert": "^0.3.0",
     "sinon": "^7.3.2",
     "st": "^1.2.2",
-    "stylelint": "^9.10.1",
+    "stylelint": "^15.10.1",
     "stylelint-config-standard": "^18.2.0",
     "tap": "~12.4.1",
     "tap-parser": "^9.3.3",
